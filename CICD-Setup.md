@@ -10,3 +10,8 @@
  d. All other instance its good to have 1 CPU and 2 GB Ram
  
  
+# Step 2 : Installation of Java on one of the EC2 instances
+
+a. ''' sudo su -
+
+b. ''' java -version 
